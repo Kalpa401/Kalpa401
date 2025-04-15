@@ -1,7 +1,3 @@
-github profile markdown generator logo
-GitHub Profile README Generator
-Star this repo22633
-Fork on GitHub7463
 <h1 align="center">Hi 👋, I'm Kalpa Jayamanna</h1>
 <h3 align="center">A passionate and driven undergraduate student with a strong foundation in Information and Communication Technology and Computer Science, currently studying at Informatics Institute of Technology (IIT). Eager to leverage my skills in technology to pursue a career at the intersection of innovation and cutting-edge solutions. Highly motivated, adaptable, and a strong team player, committed to contributing to the dynamic world of tech.</h3>
 
@@ -27,27 +23,3 @@ Fork on GitHub7463
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kalpa401&show_icons=true&locale=en" alt="kalpa401" /></p>
 
-Support 🙏
-Are you using the tool and happy with it to create your GitHub Profile?
-Your kind support keeps open-source tools like this free for others.
-tweet github profile readme generator
-Let the world know how you feel using this tool. Share with others on twitter.
-Tip💰
-Buy ko-fi for rahuldkjainBuy me a ko-fi
-Donate rahuldkjain via paypal
-Buy rahuldkjain A CoffeeBuy me a coffee
-github profile markdown generator logo
-GitHub Profile README Generator
-Pages
-Addons
-Support
-About
-More
-Github
-Releases
-Issues
-Pull Requests
-Join Community
-Discord of the community
-Developed in India 🇮🇳
-Buy Me A Coffee
